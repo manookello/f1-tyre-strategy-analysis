@@ -1,0 +1,16 @@
+feature,importance,label
+LapFraction,0.2425380109210102,Race progress
+Position,0.14091082764547505,Running position (traffic)
+Humidity,0.12519933899329,Humidity
+TeamSeason,0.08720401576027512,Car (team × season)
+LapNumber,0.08314072200822026,Lap number
+EventName,0.07582565131727076,Circuit
+TyreLife,0.05111363629134822,Tyre age (laps)
+Driver,0.050290877107079635,Driver
+LapsRemaining,0.04504262728493125,Laps remaining (fuel load)
+AirTemp,0.036466971567187145,Air temperature
+TrackTemp,0.031295122367733665,Track temperature
+Stint,0.016780179644304758,Stint number
+WindSpeed,0.01119437203810421,Wind speed
+Compound,0.002295041479996523,Compound
+FreshTyre,0.0007026055737732119,New tyre set
